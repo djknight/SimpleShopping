@@ -1,0 +1,19 @@
+.done {
+    text-decoration: line-through #ff3c3c;
+}
+
+body {
+    font-family: fantasy;
+    font-size: 2em;
+    border-bottom: 2px solid darkgray;
+    border-right: 2px solid darkgray;
+    border-left: 2px solid darkgray;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+}
+
+li {
+    /* /// decide on the text align for the items  /// */
+    text-align: center;
+}
